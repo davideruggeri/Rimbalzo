@@ -2,6 +2,7 @@ package it.unibs.pajc;
 
 import java.awt.*;
 
+//ciao
 public class Giocatore extends Rectangle {
     private static final int BASE_HEIGHT = 400; // Altezza della base del pannello
     private static final int MOVEMENT_SPEED = 10; // Velocità di movimento orizzontale
