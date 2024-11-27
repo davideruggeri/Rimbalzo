@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd00a3bf-8853-4784-be18-d0145aeeadb7" name="Changes" comment="">
+    <list default="true" id="dd00a3bf-8853-4784-be18-d0145aeeadb7" name="Changes" comment="palette sul piano corretto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rimbalzo" beforeDir="false" afterPath="$PROJECT_DIR$/Rimbalzo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Ball.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Giocatore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Giocatore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/GamePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/GamePanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/GamePanel$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/Giocatore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/Giocatore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +96,25 @@
       <workItem from="1732630152081" duration="2408000" />
       <workItem from="1732632619538" duration="5006000" />
       <workItem from="1732698428568" duration="336000" />
-      <workItem from="1732698787015" duration="697000" />
+      <workItem from="1732698787015" duration="1716000" />
+      <workItem from="1732711727781" duration="312000" />
     </task>
+    <task id="LOCAL-00001" summary="palette sul piano corretto">
+      <option name="closed" value="true" />
+      <created>1732699694167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732699694167</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="palette sul piano corretto" />
+    <option name="LAST_COMMIT_MESSAGE" value="palette sul piano corretto" />
   </component>
 </project>
