@@ -5,14 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd00a3bf-8853-4784-be18-d0145aeeadb7" name="Changes" comment="palette sul piano corretto">
+      <change afterPath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Bot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Ball.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Giocatore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Giocatore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/Ball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/GamePanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/GamePanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/GamePanel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/Giocatore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rimbalzo/it/unibs/pajc/Giocatore.class" afterDir="false" />
+    </list>
+    <list id="77e2cb7c-80a9-45af-a8fd-09d62edf35a7" name="Changes by tiger" comment="">
+      <change beforePath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Ball.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Rimbalzo" />
@@ -30,6 +46,25 @@
     &quot;accountId&quot;: &quot;5ae506cf-941d-4eae-8162-cc37563083d8&quot;
   }
 }</component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/Rimbalzo/src/it/unibs/pajc/Ball.java">
+      <ranges>
+        <range start1="3" end1="3" start2="3" end2="4" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+        <range start1="5" end1="5" start2="6" end2="7" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+        <range start1="7" end1="9" start2="9" end2="11" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+        <range start1="13" end1="14" start2="15" end2="15" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+        <range start1="42" end1="44" start2="43" end2="45" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+        <range start1="45" end1="45" start2="46" end2="47" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+        <range start1="49" end1="50" start2="51" end2="51" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+        <range start1="51" end1="52" start2="52" end2="53" changelist="77e2cb7c-80a9-45af-a8fd-09d62edf35a7" />
+        <range start1="53" end1="53" start2="54" end2="55" changelist="77e2cb7c-80a9-45af-a8fd-09d62edf35a7" />
+        <range start1="56" end1="57" start2="58" end2="64" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+        <range start1="58" end1="63" start2="65" end2="67" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+        <range start1="64" end1="70" start2="68" end2="72" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+        <range start1="71" end1="80" start2="73" end2="82" changelist="dd00a3bf-8853-4784-be18-d0145aeeadb7" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -39,21 +74,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="it.unibs.pajc.Main" />
@@ -95,6 +131,8 @@
       <workItem from="1732698428568" duration="336000" />
       <workItem from="1732698787015" duration="1716000" />
       <workItem from="1732711727781" duration="2230000" />
+      <workItem from="1732799229251" duration="7570000" />
+      <workItem from="1732806984018" duration="4496000" />
     </task>
     <task id="LOCAL-00001" summary="palette sul piano corretto">
       <option name="closed" value="true" />
@@ -112,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732712274411</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="palette sul piano corretto">
+      <option name="closed" value="true" />
+      <created>1732799287639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799287639</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
